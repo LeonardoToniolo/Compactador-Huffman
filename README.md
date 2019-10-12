@@ -1,2 +1,2 @@
-# Huffman-
-Compactador de Huffman feito para trabalho universitario 
+# Compactador de Huffman
+Compactador de Huffman feito para trabalho universitário 
